@@ -124,7 +124,7 @@ Calculate the variance of $X$.
 
 Suppose that
 
-$$Y ~ \Beta (2, 5)$$
+$$Y ~ \beta (2, 5)$$
 
 Find the median and the 95<superscript>th</superscript> percentile for $Y$.
 
@@ -134,7 +134,7 @@ Find the median and the 95<superscript>th</superscript> percentile for $Y$.
 
 In a medical experiment, a rat has been exposed to some radiation. The experimenters believe that the rat's survival time $X$ (in weeks) has the pdf
 
-$$f(x) = \frac{3x^2}{120^3} e^{-\frac{x}{120}}^3$$
+$$f(x) = \frac{3x^2}{120^3} e^{-\left(\frac{x}{120\right)}^3$$
 
 $$0 < x < \infty$$
 

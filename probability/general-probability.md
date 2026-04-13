@@ -46,7 +46,7 @@ A hospital receives two fifths of its flu vaccine from Company A and the remaind
 
 An insurance company determines that $N$, the number of claims received in a week, is a random variable with:
 
-$$P \lbracket N = n \rbracket = \frac{1}{2^{n + 1}}$$
+$$P[N = n] = \frac{1}{2^{n + 1}}$$
 
 where $n \geq 0$.
 

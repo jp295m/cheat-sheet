@@ -46,7 +46,7 @@ Suppose that we have the following information about basketball player shoe size
 </table>
 
 1. Find the expected height and expected shoe size of a basketball player.
-1. Find the expected shoe size, given that a player is 73 inches tall, $\operatorname E \lbracket S | H = 73 \rbracket$.
+1. Find the expected shoe size, given that a player is 73 inches tall, $\operatorname E \lbracket S \| H = 73 \rbracket$.
 1. Find the conditional coefficient of variation for shoe size, given the player is 5'8" tall.
 
 ## The Distribution of Order Statistics for Independent Random Variables
