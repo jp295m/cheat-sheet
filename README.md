@@ -84,7 +84,7 @@
         - [MapReduce](large-scale-design/system-design/mapreduce.md)
         - [`for` Loop Problems](large-scale-design/system-design/for-loop-problems.md)
         - [Index](large-scale-design/system-design/index.md)
-        - [Reverse Linked List](large-scale-design/system-design/reverse-linked-list.md)
+        - [Example: Backpropagate Computational Graph](large-scale-design/system-design/example.md)
         - [Compilers](large-scale-design/system-design/compilers.md)
         - [Memory Cache](large-scale-design/system-design/memory-cache.md)
         - [Networks](large-scale-design/system-design/networks.md)
